@@ -1,0 +1,74 @@
+# AlienFX, Green THeme
+# 02:05 update status code
+# 02:05 execute
+# 02:03:nn:00:zz:zz:rg:b0:
+
+# 00:08 : Keyboard - Left
+# 00:04 : Keyboard - Mid-Left
+# 00:02 : Keyboard - Mid-Right
+# 00:01 : Keyboard - Right
+
+# 01:00 : Alienware (Power Button)
+
+# 00:80 : Block Mayud Indicator
+# 02:00 : Disk Indicator
+# 48:00 : Wifi Indicator?
+
+# 00:60 : Alienware (Text)
+
+
+02:06
+02:07:04
+02:06
+02:1d:03
+02:0e:00:c8
+
+# Chisma de alienware
+02:03:06:00:00:60:0f:00
+02:04
+
+# Teclado
+# Parte izquierda
+02:03:02:00:00:08:0f:00
+02:04
+# Parte central
+02:03:03:00:00:04:0f:00
+02:04
+# Parte central derecha
+02:03:04:00:00:02:0f:00
+02:04
+# Parte derecha del teclado
+02:03:05:00:00:01:0f:00
+02:04
+
+# Keyboards 
+02:03:02:00:00:08:0f:00
+02:04
+02:03:03:00:00:04:0f:00
+02:04
+02:03:04:00:00:02:0f:00
+02:04
+02:03:05:00:00:01:0f:00
+02:04
+
+# Botón de power
+02:03:07:00:01:00:0f:00
+02:04
+# Indicador disco
+02:03:08:00:02:00:0f:00
+02:04
+# Chisma de alienware
+02:03:06:00:00:60:0f:00
+02:04
+# Indicador block mayus
+02:03:0a:00:00:80:0f:00
+02:04
+
+# ¿Indicador wifi?
+02:03:09:00:48:00:0f:00
+02:04
+
+
+02:03:0b:0f:94:10
+02:04
+02:05
