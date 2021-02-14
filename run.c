@@ -36,7 +36,7 @@ int clear(){
 	// DEBUG
 	libusb_set_debug(NULL, LIBUSB_LOG_LEVEL_DEBUG);
 
-	dev = libusb_open_device_with_vid_pid(NULL, 0x187c, 0x0527);
+	dev = libusb_open_device_with_vid_pid(NULL, 0x187c, 0x0530);
 	if(dev == NULL) {
 		fprintf(stderr, "failed to open usb device\n");
 		return 1;
